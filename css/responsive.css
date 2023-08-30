@@ -132,6 +132,9 @@
     .experience-content .cd-timeline-content h2 {
         font-size: 24px;
     }
+    .experience-content .cd-timeline-block {
+        margin-bottom: 70px;
+    }
 }
 
 
@@ -511,5 +514,8 @@
     .educaton-content,
     .experience-content {
         margin-left: 0;
+    }
+    .experience-content .cd-timeline-block {
+        margin-bottom: 250px;
     }
 }
