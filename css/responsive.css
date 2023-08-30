@@ -12,6 +12,7 @@
     }
     .about-thum-area .about-img {
         width: 100%;
+        height: 420px;
     }
     .about-thum-area .about-img:after {
         display: none;
@@ -152,6 +153,7 @@
     }
     .about-thum-area .about-img {
         width: 235px;
+        height: 250px;
         /* margin-left: 80px !important; */
     }
     .about-thum-area .about-img:after {
