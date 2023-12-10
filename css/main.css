@@ -1652,6 +1652,11 @@ body.preloader-active {
   width: auto;
 }
 
+.cgpa {
+    margin-top: 7px;
+    font-weight: 700;
+}
+
 /* ==== Preloader CSS End ==== */
 
 /* ==== Scrollbar CSS Start ==== */
